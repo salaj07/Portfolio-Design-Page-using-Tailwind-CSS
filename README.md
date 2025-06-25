@@ -26,4 +26,4 @@ This is a **static portfolio design page** created using **Tailwind CSS**. The p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/salaj07/Portfolio-Design-Page-using-Tailwind-CSS.git
+ [  git clone https://github.com/salaj07/Portfolio-Design-Page-using-Tailwind-CSS.git](https://github.com/salaj07/Portfolio-Design-Page-using-Tailwind-CSS.git)
