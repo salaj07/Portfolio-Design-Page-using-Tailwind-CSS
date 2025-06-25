@@ -21,9 +21,6 @@ This is a **static portfolio design page** created using **Tailwind CSS**. The p
 - **Tailwind CSS**
 - Basic **custom styling (fonts & layout)**
 
-## 📸 Screenshots
-
-*(You can add screenshots here later if you want)*
 
 ## 🚀 How to Run
 
